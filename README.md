@@ -13,7 +13,7 @@ I love sharing my knowledge and experience, contribute to open source projects r
 </p>
 
 
-**I like stories about business and finance.** I want to give and receive good influences at any time, so please ✨contact✨ me if you want to interact.
+**I like stories about business and finance.** ⚡ <br/>you want to give and receive good influences at any time, so please ✨contact✨ me if you want to interact.
 
 
 
