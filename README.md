@@ -12,12 +12,14 @@
 I love sharing my knowledge and experience, contribute to open source projects related to Javascript, and sharing Business & developement problems as code on this repository.
 </p>
 
-**Phantom05/Phantom05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**I like stories about business and finance.** I want to give and receive good influences at any time, so please ✨contact✨ me if you want to interact.
+
 
 
 
 <hr />
-<strong>NOTE:</strong> <em>Judging by what you see, you can miss a lot.</em>
+<p><strong>NOTE:</strong> <em>Judging by what you see, you can miss a lot.</em> </p>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=phantom05&show_icons=true&theme=dracula">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula&layout=compact">
