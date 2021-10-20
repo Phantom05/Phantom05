@@ -30,7 +30,7 @@ I love sharing my knowledge and experience, contribute to open source projects r
 <p><strong>NOTE:</strong> <em>Judging by what you see, you can miss a lot.</em> </p>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=phantom05&show_icons=true&theme=dracula">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula&layout=compact">
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula&layout=compact"> -->
 </p>
 
 
